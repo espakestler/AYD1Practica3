@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_AyD1_Practica2.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Mi Banco AYD1
+                </h1>
+            </div>
+            <div class="loginDisplay">
+            <asp:LinkButton ID="LinkButton1" runat="server" Text="Iniciar Sesiön" 
+                    onclick="LinkButton1_Click"></asp:LinkButton>
+                    <br />
+                <asp:Label ID="Label_logged" runat="server" Text=""></asp:Label>
+            <!--
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">                    
+                    <AnonymousTemplate>
+                        [ <a href="Login.aspx" ID="HeadLoginStatus" runat="server">Cerrar sesión</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Pantalla de bienvenida <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!                                                  
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Cerrar sesión" LogoutPageUrl="~/"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+                -->
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Página principal"/>
+                        <asp:MenuItem NavigateUrl="~/BalanceGeneral.aspx" Text="Balance"/>
+                        <asp:MenuItem NavigateUrl="~/Credito.aspx" Text="Credito"/>
+                        <asp:MenuItem NavigateUrl="~/Debito.aspx" Text="Debito"/>
+                        <asp:MenuItem NavigateUrl="~/PagoServicio.aspx" Text="Pago de Servicios"/>
+                        <asp:MenuItem NavigateUrl="~/Transferencia.aspx" Text="Transferencias"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:Label ID="Encabezado" runat="server" Text="" Font-Size="Large" align="center"></asp:Label>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>            
+        </div>
+        <div class="clear">
+            Segunda Practica Analisis y Diseño de Seistemas 1. Todos los derechos 
+            reservados. Guatemala 2017.</div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

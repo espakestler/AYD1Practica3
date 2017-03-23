@@ -1,0 +1,7 @@
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\bin\Debug\CapaControlador.dll
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\bin\Debug\CapaControlador.pdb
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\TestProject1\obj\Debug\TestProject1.pdb

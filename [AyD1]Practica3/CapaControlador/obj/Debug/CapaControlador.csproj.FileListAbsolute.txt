@@ -1,0 +1,6 @@
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\bin\Debug\CapaControlador.dll.config
+C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\CapaControlador\obj\Debug\CapaControlador.csprojResolveAssemblyReference.cache
