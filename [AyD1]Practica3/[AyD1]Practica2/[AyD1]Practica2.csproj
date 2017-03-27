@@ -61,6 +61,9 @@
     <Content Include="LogIn.aspx" />
     <Content Include="PagoServicio.aspx" />
     <Content Include="Registro.aspx" />
+    <Content Include="Scripts\jquery-3.2.0.min.js" />
+    <Content Include="Styles\bootstrap.css" />
+    <Content Include="Styles\bootstrap.min.css" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -118,6 +121,13 @@
     </Compile>
     <Compile Include="BalanceGeneral.aspx.designer.cs">
       <DependentUpon>BalanceGeneral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BootStrap.Master.cs">
+      <DependentUpon>BootStrap.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BootStrap.Master.designer.cs">
+      <DependentUpon>BootStrap.Master</DependentUpon>
     </Compile>
     <Compile Include="Credito.aspx.cs">
       <DependentUpon>Credito.aspx</DependentUpon>
@@ -192,6 +202,9 @@
       <Project>{56B6C57A-77B0-4C97-8235-BFD75441C8D3}</Project>
       <Name>CapaControlador</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BootStrap.Master" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

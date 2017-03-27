@@ -5,3 +5,10 @@ C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\[AyD1]Practica2\obj\Debug\[AyD1]Pr
 C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\[AyD1]Practica2\bin\CapaControlador.dll
 C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\[AyD1]Practica2\bin\CapaControlador.pdb
 C:\Users\Esteban\Desktop\AYD1\[AyD1]Practica2\[AyD1]Practica2\obj\Debug\[AyD1]Practica2.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\bin\[AyD1]Practica2.dll
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\bin\[AyD1]Practica2.pdb
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\bin\CapaControlador.dll
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\bin\CapaControlador.pdb
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\obj\Debug\[AyD1]Practica2.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\obj\Debug\[AyD1]Practica2.dll
+C:\Users\Esteban\Desktop\AYD1\Practica3\p4\[AyD1]Practica3\[AyD1]Practica2\obj\Debug\[AyD1]Practica2.pdb
